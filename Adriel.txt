@@ -1,1 +1,2 @@
 This is my GitHub assignment.
+This line was added on GitHub.
